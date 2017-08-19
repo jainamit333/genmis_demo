@@ -1,0 +1,1 @@
+Hi this i Amit Jain , just addind sample document to test the cosine similarity
